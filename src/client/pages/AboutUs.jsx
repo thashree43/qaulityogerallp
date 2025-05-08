@@ -6,7 +6,7 @@ import CEO from "../../Images/CEO.jpg"
 import Quality from "../../Images/qualitylogo.jpg"
 import company from "../../Images/company.webp"
 import corporate from "../../Images/Corporate.webp"
-import team from "../../Images/teamleads.webp"
+import team from "../../assets/Ogera_Logo.png"
 
 // Hero Component
 const HeroComponent = () => {
