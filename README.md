@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # ogerawebsitefrontent
 # ogeraglobal_frontend
 # qaulityogerallp
+# qaulityogerallp
