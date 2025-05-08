@@ -2,9 +2,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
-import Mixie from "../videos/P2-1.mp4";
-import induction from "../videos/P3-1.mp4";
-import Blender from "../videos/Blender.mp4"
+import Mixie from "../videos/Mixer.mp4";
+import induction from "../videos/Induct.mp4";
 
 const Carosole = () => {
   return (
@@ -40,7 +39,7 @@ const Carosole = () => {
           <p>Sample Text for Video Slide</p>
         </Carousel.Caption> */}
       </Carousel.Item>
-      <Carousel.Item>
+      {/* <Carousel.Item>
         <video 
           className="d-block w-100" 
           autoPlay 
@@ -52,7 +51,7 @@ const Carosole = () => {
           Your browser does not support the video tag.
         </video>
         
-      </Carousel.Item>
+      </Carousel.Item> */}
     </Carousel>
   );
 };
